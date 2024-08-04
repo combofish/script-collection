@@ -1,0 +1,6 @@
+icecream
+
+
+# clipboard_listener
+pyqt5
+
